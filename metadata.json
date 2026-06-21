@@ -1,0 +1,6 @@
+{
+  "name": "Darshnam Tours & Cab Booking",
+  "description": "Premium travel agency, taxi service, airport transfers, and customized pilgrimage and sightseeing tour packages in Deoghar, Jharkhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
